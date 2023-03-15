@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "reactSnippets.settings.prettierEnabled": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 100,
+  "prettier.useTabs": true
+}
